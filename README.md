@@ -7,8 +7,8 @@
 - Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/pulkitsriva123/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/pulkitsriva123)
+- LeetCode: [PULKIT_SRIVASTAVA](https://leetcode.com/pulkitsriva123/)
+- HackerRank: [PULKIT_SRIVASTAVA](https://www.hackerrank.com/pulkitsriva123)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
