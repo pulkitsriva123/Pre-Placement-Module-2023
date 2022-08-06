@@ -4,7 +4,7 @@
 - University Roll No.: 2000290009017
 - Branch: Civil engineering
 - Section: A
-- Preferred Programming Language: Python
+- Preferred Programming Language: Java
 
 ## Coding Profiles
 - LeetCode: [PULKIT_SRIVASTAVA](https://leetcode.com/pulkitsriva123/)
