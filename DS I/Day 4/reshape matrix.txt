@@ -1,0 +1,19 @@
+lass Solution {
+    public int[][] matrixReshape(int[][] mat, int r, int c) {
+        if((r*c)!=mat[0].length*mat.length){
+            return mat;
+        }
+        int[][] arr = new int[r][c];
+        int index=mat[0].length,row=0,it=0;
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++,it++){
+                if(it==mat[0].length){
+                    row++;
+                    it=0;
+                }
+                arr[i][j]=mat[row][it];
+            }
+        }
+        return arr; 
+    }
+}
